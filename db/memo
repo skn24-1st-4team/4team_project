@@ -38,3 +38,16 @@ connection = pymysql.connect(
 # 22) https://www.sisul.or.kr/open_content/traffic/bbs/bbsMsgDetail.do?msg_seq=227&keyfield=title&listsz=10&cate1=04&bcd=faq
 
 #=========================
+
+## 작업 흐름 이해하기
+
+# 1) vs code에서 파일 수정
+# 2) ex. read.md 수정 -> 코드 수정 -> 이미지 추가 등하면 반드시 Ctrl+s로 저장
+# 3) git bash 열기 
+# 4) git status 명령어 -> modified: data/read.md (=vs code에서 저장한게 감지됨)
+#5) 변경 사항 커밋&푸시:
+#   -> git add
+#   -> git commit -m "update readme"
+#⭐⭐같은 폴더인지 확인하기
+# /c/SKN_24/term_p (kimjiwon)
+# git status

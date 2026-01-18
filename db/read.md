@@ -46,10 +46,10 @@ MySQL 기반 DB(`traffic`)를 구축한 프로젝트이다.
 ---
 
 ## 3.기술 스택
--Python (requests, BeautifulSoup, mysql-connector)
--MySQL
--Streamlit
--Figma
+- Python (requests, BeautifulSoup, mysql-connector)
+- MySQL
+- Streamlit
+- Figma
 
 ---
 
